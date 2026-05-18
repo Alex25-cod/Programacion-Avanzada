@@ -33,8 +33,5 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu equipo:
       ejecuta.
      
   4. Ejecutar la Aplicación
-     Una vez creada la base de datos, compila y levanta el servidor web local con el siguiente comando.
-       En *Herramientas* > *Administrador de paquetes NuGet* > *Consola*
-       ingresa: dotnet run
-       ejecuta.
+     Una vez creada la base de datos, compila y levanta el servidor web local.
      
