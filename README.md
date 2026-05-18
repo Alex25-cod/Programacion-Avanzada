@@ -35,3 +35,4 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu equipo:
   4. Ejecutar la Aplicación
      Una vez creada la base de datos, compila y levanta el servidor web local.
      
+Junto a este archivo se adjunta una carpeta con imagenes del proyecto.
